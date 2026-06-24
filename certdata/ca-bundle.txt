@@ -4854,6 +4854,36 @@ Details:
 	Basic constraints: valid, is a CA certificate
 	SANs (0):
 CERTIFICATE
+Subject: /HARICA TLS RSA Root CA 2021/C=GR/O=Hellenic Academic and Research
+    Institutions CA
+Issuer: /HARICA TLS RSA Root CA 2021/C=GR/O=Hellenic Academic and Research
+    Institutions CA
+	Signature algorithm: RSA / SHA256
+Details:
+	Public key: RSA-4096
+	Serial number: 76817823531813593706434026085292783742
+	SKI: 0A:48:23:A6:60:A4:92:0A:33:EA:93:5B:C5:57:EA:25:4D:BD:12:EE
+	Valid from: 2021-02-19T10:55:38+0000
+	     until: 2045-02-13T10:55:37+0000
+	Key usages: cert sign, crl sign, digital signature
+	Basic constraints: valid, is a CA certificate
+	SANs (0):
+CERTIFICATE
+Subject: /HARICA TLS ECC Root CA 2021/C=GR/O=Hellenic Academic and Research
+    Institutions CA
+Issuer: /HARICA TLS ECC Root CA 2021/C=GR/O=Hellenic Academic and Research
+    Institutions CA
+	Signature algorithm: ECDSA / SHA384
+Details:
+	Public key: ECDSA-secp384r1
+	Serial number: 137515985548005187474074462014555733966
+	SKI: C9:1B:53:81:12:FE:04:D5:16:D1:AA:BC:9A:6F:B7:A0:95:19:6E:CA
+	Valid from: 2021-02-19T11:01:10+0000
+	     until: 2045-02-13T11:01:09+0000
+	Key usages: cert sign, crl sign, digital signature
+	Basic constraints: valid, is a CA certificate
+	SANs (0):
+CERTIFICATE
 Subject: /Sectigo Public Server Authentication Root E46/C=GB/O=Sectigo Limited
 Issuer: /Sectigo Public Server Authentication Root E46/C=GB/O=Sectigo Limited
 	Signature algorithm: ECDSA / SHA384
